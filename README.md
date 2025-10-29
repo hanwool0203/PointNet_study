@@ -1,3 +1,24 @@
+# PointNet/PointNet++ Pytorch (개인 학습용 저장소)
+
+이 저장소는 [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch) 저장소를 기반으로 합니다.
+
+원본 저장소의 코드를 개인적인 학습 목적으로 수정하고, 주석을 추가한 버전입니다. 훌륭한 코드를 공개해주신 원본 저자 [yanx27](https://github.com/yanx27)님께 감사드립니다.
+
+## 이 저장소의 목적
+
+PointNet 및 PointNet++ 모델의 Pytorch 구현을 깊이 있게 이해하기 위해 코드를 분석하고 주석을 다는 것을 목표로 합니다.
+
+## 주요 변경 사항
+
+* **상세 주석 추가**: 모델 구조, 데이터 처리, 학습 과정 등 코드의 주요 부분에 이해를 돕기 위한 상세한 주석을 추가했습니다.
+* **코드 현대화**: (여기에 님이 수정한 내용을 구체적으로 적어주세요. 예: "최신 Pytorch 버전에 맞게 일부 deprecated 함수 수정", "Ubuntu 22.04 환경에서 실행되도록 의존성 파일 수정" 등)
+
+## License
+
+이 저장소는 원본 저장소와 동일하게 [MIT License](LICENSE)를 따릅니다.
+
+## (이하 내용은 원본 저장소의 README입니다)
+
 # Pytorch Implementation of PointNet and PointNet++ 
 
 This repo is implementation for [PointNet](http://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) and [PointNet++](http://papers.nips.cc/paper/7095-pointnet-deep-hierarchical-feature-learning-on-point-sets-in-a-metric-space.pdf) in pytorch.
