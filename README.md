@@ -17,6 +17,9 @@ PointNet 및 PointNet++ 모델의 Pytorch 구현을 깊이 있게 이해하기 �
 
 이 저장소는 원본 저장소와 동일하게 [MIT License](LICENSE)를 따릅니다.
 
+---
+---
+
 ## (이하 내용은 원본 저장소의 README입니다)
 
 # Pytorch Implementation of PointNet and PointNet++ 
